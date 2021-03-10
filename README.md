@@ -1,2 +1,2 @@
-# leapyearfinder
-Easy Find Leap Year With LeapYearFinder
+# LeapYearFinder - By LexusCreations
+Easy Find Leap Year With LeapYearFinder Simple JavaScript App
